@@ -1,2 +1,2 @@
 # code
-Compilations of R programming cdes
+Compilations of R programming codes
